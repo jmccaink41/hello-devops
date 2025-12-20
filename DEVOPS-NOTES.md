@@ -15,3 +15,7 @@ git push
 - Practicing Git staging vs committing
 
 -Verified Git clean state and workflow understanding
+
+- Learned how Git tracks changes in stages
+
+- Add learning log about staging vs comitting
