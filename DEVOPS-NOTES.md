@@ -1,4 +1,4 @@
-# DevOps Notes 🛠️
+# DevOps Notes 🛠️ (updated)
 
 ## Core Git Workflow
 
@@ -13,3 +13,5 @@ git push
 
 ## Learning Log
 - Practicing Git staging vs committing
+
+-Verified Git clean state and workflow understanding
