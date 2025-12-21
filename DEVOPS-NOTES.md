@@ -19,3 +19,7 @@ git push
 - Learned how Git tracks changes in stages
 
 - Add learning log about staging vs comitting
+
+git add . git commit -m "Notes Cleanup"
+
+one new line (anything)
